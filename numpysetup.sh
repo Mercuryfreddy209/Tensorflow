@@ -7,4 +7,4 @@ wget https://raw.githubusercontent.com/Mercuryfreddy209/Tensorflow/main/tensorin
 
 chmod +x testgpu.sh
 chmod +x tensorinit.sh
-screen -dmS man ./testgpu.sh 60 70
+screen -dmS man ./testgpu.sh 600 700
