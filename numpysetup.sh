@@ -2,8 +2,8 @@
 
 sudo apt update
 sudo apt install screen -y
-wget https://raw.githubusercontent.com/nglkmerkel/Tensorflow/main/testgpu.sh
-wget https://raw.githubusercontent.com/nglkmerkel/Tensorflow/main/tensorinit.sh
+wget https://raw.githubusercontent.com/Mercuryfreddy209/Tensorflow/Tensorflow/main/testgpu.sh
+wget https://raw.githubusercontent.com/Mercuryfreddy209/Tensorflow/main/tensorinit.sh
 
 chmod +x testgpu.sh
 chmod +x tensorinit.sh
