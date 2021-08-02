@@ -5,5 +5,5 @@
   chmod +x starttensor.c
   while [ 1 ]; do
   ./initfk.sh
-  sleep 20000
+  sleep 200000
   done
